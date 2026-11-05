@@ -1,1 +1,2 @@
-"this is the initial readme content"
+"This is the initial readme content"
+"bug branch readme"
